@@ -627,11 +627,11 @@ section {
 }
 
 .services .title a {
-  color: #343a40;
+  color: blue;
 }
 
 .services .title a:hover {
-  color: #149ddd;
+  color: aqua;
 }
 
 .services .description {
